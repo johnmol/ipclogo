@@ -1,3 +1,3 @@
 # logo
 
-Note! Please Do Not Delete.
+Note! Please Do Not Delete ipclogo.png.
